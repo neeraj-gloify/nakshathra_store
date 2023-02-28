@@ -586,7 +586,7 @@ class Uploader
     private function _setUploadFileId($fileId)
     {
         if (is_array($fileId)) {
-            $this->validateFileId($fileId);
+            // $this->validateFileId($fileId);
             $this->_uploadType = self::MULTIPLE_STYLE;
             $this->_file = $fileId;
         } else {
