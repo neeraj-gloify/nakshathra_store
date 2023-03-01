@@ -43,6 +43,27 @@
                     <comment><![CDATA[Allowed file types: jpg, jpeg, gif, png, svg]]></comment>
                 </field>
             </group>
+            <group id="advertisement_settings" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Advertisement Image</label>
+                <field id="advertisement_image_upload1" translate="label" type="image" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Image Upload</label>
+                    <!-- Backend model which saves uploaded files on a defined directory path -->
+                    <backend_model>Magento\Config\Model\Config\Backend\Image</backend_model>
+                    <upload_dir config="system/filesystem/media" scope_info="1">shopkart/advert</upload_dir>
+                    <base_url type="media" scope_info="1">shopkart/advert</base_url>
+                    <!-- Comment about allowed extensions of uploaded files which are defined in the backend model -->
+                    <comment><![CDATA[Allowed file types: jpg, jpeg, gif, png, svg]]></comment>
+                </field>
+                <field id="advertisement_image_upload2" translate="label" type="image" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Image Upload</label>
+                    <!-- Backend model which saves uploaded files on a defined directory path -->
+                    <backend_model>Magento\Config\Model\Config\Backend\Image</backend_model>
+                    <upload_dir config="system/filesystem/media" scope_info="1">shopkart/advert</upload_dir>
+                    <base_url type="media" scope_info="1">shopkart/advert</base_url>
+                    <!-- Comment about allowed extensions of uploaded files which are defined in the backend model -->
+                    <comment><![CDATA[Allowed file types: jpg, jpeg, gif, png, svg]]></comment>
+                </field>
+            </group>
             <group id="promotion_settings" translate="label" type="text" sortOrder="11" showInDefault="1" showInWebsite="1" showInStore="1">
                 <label>Promotion Settings</label>
                 <field id="enable_promotion" translate="label" type="select" sortOrder="5" showInDefault="1" showInWebsite="1" showInStore="1">
