@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/nakshathra/app/design/adminhtml/Magento/backend/web/js/theme.js

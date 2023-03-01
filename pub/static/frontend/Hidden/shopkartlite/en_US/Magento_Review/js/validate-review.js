@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/nakshathra/app/code/Magento/Review/view/frontend/web/js/validate-review.js

@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/nakshathra/app/code/Magento/Paypal/view/adminhtml/web/js/rules.js

@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/nakshathra/app/code/Magento/Translation/view/base/web/js/mage-translation-dictionary.js

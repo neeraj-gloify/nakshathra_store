@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/nakshathra/app/code/Magento/Captcha/view/frontend/web/js/model/captcha.js

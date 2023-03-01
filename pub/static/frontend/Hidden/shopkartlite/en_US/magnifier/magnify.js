@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/nakshathra/lib/web/magnifier/magnify.js

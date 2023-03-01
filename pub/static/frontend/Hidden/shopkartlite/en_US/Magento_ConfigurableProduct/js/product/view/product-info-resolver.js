@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/nakshathra/app/code/Magento/ConfigurableProduct/view/frontend/web/js/product/view/product-info-resolver.js
